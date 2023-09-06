@@ -1,0 +1,31 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    color: blue;
+}
+#first{
+    color: rebeccapurple;
+}
+h2{
+    color: brown;
+}
+#second{
+    color: chocolate;
+}
+#a{
+    color: cadetblue;
+}
+#b{
+    color: darkblue;
+}
+#c{
+    color: darkslateblue;
+}
+#d{
+    color: darkgreen;
+}
+#e{
+    color: darkmagenta;
+}
